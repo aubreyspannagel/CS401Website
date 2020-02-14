@@ -3,7 +3,7 @@
 
    <body>
       
-      <img src="Documents/Spring2020/CS401/Website/Logo.png" alt="Logo" title="Aubrey's Thrift Finds"/> 
+      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/Logo.png" alt="Logo" title="Aubrey's Thrift Finds"/> 
       <ul>
          <li><a href="home.php"> Home </a></li>
          <li><a href="clothing.php"> Clothing </a></li>
@@ -18,4 +18,4 @@
          <li><a href="signup.php"> Sign Up </a></li>
       </ul>
       
-      <img src="Documents/Spring2020/CS401/Website/shoppingCartIcon.jpg" alt="shoppingCartIcon" title="		Shopping Cart"/>
+      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/shoppingCartIcon.jpg" alt="shoppingCartIcon" title="Shopping Cart"/>
