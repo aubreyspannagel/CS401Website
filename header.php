@@ -1,7 +1,7 @@
 <html>
    <head>
       <title> Aubrey's Thrift Finds </title>
-      <link href="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/favicon.png" type="image/png" rel="favicon"/>
+      <link rel="shortcut icon" href="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/favicon.png"/>
    </head>
 
    <link rel="stylesheet" type="text/css" href="stylesheat.css">
