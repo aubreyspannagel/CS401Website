@@ -4,7 +4,7 @@
    
    <body>
       
-      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/logo.png" alt="Logo" title="Aubrey's Thrift Finds"/> 
+      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/logo1.png" alt="Logo" title="Aubrey's Thrift Finds"/> 
     
       <ul id="subpages">
          <li><a href="home.php"> Home </a></li>
