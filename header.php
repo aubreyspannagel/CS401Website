@@ -8,7 +8,7 @@
    
    <body>
       
-   <div id="search"  
+   <div id="search">  
       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/logo1.png" alt="Logo" title="Aubrey's Thrift Finds"/> 
     
       <ul id="pagelinks">
