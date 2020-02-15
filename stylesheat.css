@@ -11,3 +11,7 @@ ul{
   float: right;
   margin: 5px;
 }
+
+div{
+  display: inline;
+}
