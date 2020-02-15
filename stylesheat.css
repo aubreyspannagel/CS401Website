@@ -18,7 +18,11 @@ li{
   margin: 5px;
 }
 
-#search{
-  display: inline;
+#cart{
+ display: inline;
+ float: right;
 }
 
+#search{
+ display: inline;
+}
