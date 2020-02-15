@@ -4,8 +4,10 @@ ul{
 
 .subpages{
   float: left;
+  margin: 15px;
 }
 
 .log{
   float: right;
+  margin: 5px;
 }
