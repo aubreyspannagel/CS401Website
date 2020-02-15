@@ -8,19 +8,17 @@
    
    <body>
       
+   <div>  
       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/logo1.png" alt="Logo" title="Aubrey's Thrift Finds"/> 
     
       <ul id="pagelinks">
          <li class="subpages"><a href="home.php"> Home </a></li>
          <li class="subpages"><a href="clothing.php"> Clothing </a></li>
 	 <li class="subpages"><a href="decor.php"> Decor </a></li>
-      </ul>
-      
+      </ul>     
 
-      <div id="search">
-         <input type="text" placeholder="Search"/>
-         <input type="button" value="search"/>
-      </div>
+      <input type="text" placeholder="Search"/>
+      <input type="button" value="search"/>
 
       <ul id="login">
          <li class="log"><a href="login.php"> Log In </a></li>
@@ -28,3 +26,4 @@
       </ul>
       
       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/cart.jpg" alt="shoppingCartIcon" title="Shopping Cart"/>
+   </div>
