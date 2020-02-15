@@ -21,6 +21,7 @@ li{
 #cart{
  display: inline;
  float: right;
+ margin: 20px;
 }
 
 #search{
