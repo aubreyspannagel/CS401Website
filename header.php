@@ -1,5 +1,9 @@
 <html>
-   <title> Aubrey's Thrift Finds </title>
+   <head>
+      <title> Aubrey's Thrift Finds </title>
+      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/favicon.png" alt="favicon"/>
+   </head>
+
    <link rel="stylesheet" type="text/css" href="stylesheat.css">
    
    <body>
