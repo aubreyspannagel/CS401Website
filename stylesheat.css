@@ -2,6 +2,10 @@ ul{
    list-style: none;
 }
 
-li{
+.subpages{
   float: left;
+}
+
+.log{
+  float: right;
 }

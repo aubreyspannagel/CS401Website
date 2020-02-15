@@ -10,19 +10,21 @@
       
       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/logo1.png" alt="Logo" title="Aubrey's Thrift Finds"/> 
     
-      <ul id="subpages">
-         <li><a href="home.php"> Home </a></li>
-         <li><a href="clothing.php"> Clothing </a></li>
-	 <li><a href="decor.php"> Decor </a></li>
+      <ul id="pagelinks">
+         <li class="subpages"><a href="home.php"> Home </a></li>
+         <li class="subpages"><a href="clothing.php"> Clothing </a></li>
+	 <li class="subpages"><a href="decor.php"> Decor </a></li>
       </ul>
       
 
-      <input type="text" placeholder="Search"/>
-      <input type="button" value="search"/>
+      <div id="search">
+         <input type="text" placeholder="Search"/>
+         <input type="button" value="search"/>
+      </div>
 
       <ul id="login">
-         <li><a href="login.php"> Log In </a></li>
-         <li><a href="signup.php"> Sign Up </a></li>
+         <li class="log"><a href="login.php"> Log In </a></li>
+         <li class="log"><a href="signup.php"> Sign Up </a></li>
       </ul>
       
       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/cart.jpg" alt="shoppingCartIcon" title="Shopping Cart"/>
