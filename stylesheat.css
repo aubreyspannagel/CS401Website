@@ -1,3 +1,7 @@
-#subpages{
-   display: inline;
+ul{
+   list-style: none;
+}
+
+li{
+  float: left;
 }
