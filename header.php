@@ -4,7 +4,7 @@
    
    <body>
       
-      <div id="logo"> <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/Logo.png" alt="Logo" title="Aubrey's Thrift Finds"/></div> 
+      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/logo.png" alt="Logo" title="Aubrey's Thrift Finds"/> 
     
       <ul id="subpages">
          <li><a href="home.php"> Home </a></li>
@@ -21,4 +21,4 @@
          <li><a href="signup.php"> Sign Up </a></li>
       </ul>
       
-      <div id="cartimage"><img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/shoppingCartIcon.jpg" alt="shoppingCartIcon" title="Shopping Cart"/></div>
+      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/shoppingCartIcon.jpg" alt="shoppingCartIcon" title="Shopping Cart"/>
