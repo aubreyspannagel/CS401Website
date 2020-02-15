@@ -21,4 +21,4 @@
          <li><a href="signup.php"> Sign Up </a></li>
       </ul>
       
-      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/shoppingCartIcon.jpg" alt="shoppingCartIcon" title="Shopping Cart"/>
+      <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/cart.jpg" alt="shoppingCartIcon" title="Shopping Cart"/>
