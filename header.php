@@ -13,6 +13,10 @@
          <li class="subpages"><a href="clothing.php"> Clothing </a></li>
 	 <li class="subpages"><a href="decor.php"> Decor </a></li>
       </ul>     
+     <div id="search">
+        <input type="text" placeholder="Search"/>
+        <input type="button" value="search"/>
+     </div>
    </div> 
    <div>
       <div id="cart">
@@ -22,8 +26,4 @@
          <li class="log"><a href="signup.php"> Sign Up </a></li>
          <li class="log"><a href="login.php"> Log In </a></li>
       </ul>     
-     <div id="search">
-        <input type="text" placeholder="Search"/>
-        <input type="button" value="search"/>
-     </div>
    </div> 
