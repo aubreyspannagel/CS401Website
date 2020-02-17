@@ -8,7 +8,7 @@
    <div id="mainDiv">
      <div id="logo">  
       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/logo1.png" alt="Logo" title="Aubrey's Thrift Finds"/>
-     </div>     
+     </div>
      <div id="menu">
        <ul>
          <li class="subpages"><a href="home.php"> Home </a></li>
@@ -29,3 +29,4 @@
        </ul>     
      </div>
    </div> 
+</div>
