@@ -17,8 +17,7 @@ ul{
 }
 
 #mainDiv{
- height: 50px;
- boarder: 3px solid black;
+ border: 3px solid black;
 }
 
 #cart{
