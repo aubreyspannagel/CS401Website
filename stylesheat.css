@@ -8,12 +8,14 @@ ul{
  display: inline;
  float: left;
  margin: 20px;
+ font: 16px Cochin,serif;
 }
 
 .log{
  float: right;
  display: inline;
  margin: 20px;
+ font: 17px Cochin,serif;
 }
 
 #mainDiv{

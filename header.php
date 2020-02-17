@@ -11,7 +11,7 @@
      </div>
      <div id="menu">
        <ul>
-         <li class="subpages"><a href="home.php"> Home </a></li>
+         <li class="subpages"><a href="index.php"> Home </a></li>
          <li class="subpages"><a href="clothing.php"> Clothing </a></li>
 	 <li class="subpages"><a href="decor.php"> Decor </a></li>
        </ul>     
