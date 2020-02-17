@@ -10,7 +10,6 @@ li{
 
 .subpages{
   float: left;
-  margin: 15px;
 }
 
 .log{
@@ -21,7 +20,7 @@ li{
 #cart{
  display: inline;
  float: right;
- margin: 20px;
+ margin: 0px;
 }
 
 #search{
