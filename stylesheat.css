@@ -58,3 +58,8 @@ a:visted{
  color: gray;
  text-decoration: none;
 }
+
+#footer{
+ height: 200px;
+ background: gray;
+}
