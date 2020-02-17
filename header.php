@@ -15,10 +15,6 @@
       </ul>     
    </div> 
    <div id="cart">
-     <div id="search">
-        <input type="text" placeholder="Search"/>
-        <input type="button" value="search"/>
-     </div>
       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/cart.jpg" alt="shoppingCartIcon" title="Shopping Cart"/>
    </div>
    <div>
@@ -26,4 +22,8 @@
          <li class="log"><a href="signup.php"> Sign Up </a></li>
          <li class="log"><a href="login.php"> Log In </a></li>
       </ul>     
+     <div id="search">
+        <input type="text" placeholder="Search"/>
+        <input type="button" value="search"/>
+     </div>
    </div> 
