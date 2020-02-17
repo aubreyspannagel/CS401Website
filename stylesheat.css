@@ -31,3 +31,7 @@ ul{
  float: left;
  margin: 20px;
 }
+
+input{
+ width: 450px;
+}
