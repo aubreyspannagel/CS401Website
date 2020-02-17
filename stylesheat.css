@@ -26,4 +26,5 @@ li{
 
 #search{
  display: inline;
+ float: left;
 }
