@@ -7,21 +7,27 @@ ul{
 .subpages{
  display: inline;
  float: left;
+ margin: 20px;
 }
 
 .log{
  float: right;
  display: inline;
- margin: 5px;
+ margin: 20px;
+}
+
+#mainDiv{
+ height: 75px;
 }
 
 #cart{
  display: inline;
  float: right;
- margin: 0px;
+ margin: 15px;
 }
 
 #search{
  display: inline;
  float: left;
+ margin: 20px;
 }
