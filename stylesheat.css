@@ -56,7 +56,7 @@ a:active{
 }
 
 a:visted{
- color: gray;
+ color: grey;
  text-decoration: none;
 }
 
@@ -95,7 +95,14 @@ a:visted{
  right: 150px;
 }
 
-h1{
+#clothing, #decor{
+ height: 450px;
+ width: 100%;
+ border: 2px solid black;
+ border-bottom: 0px;
+}
+
+#login{
  height: 450px;
  width: 100%;
  border: 2px solid black;

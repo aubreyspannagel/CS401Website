@@ -1,3 +1,3 @@
 <?php require_once 'header.php'; ?>
-<h1> Decor </h1>
+<div id="decor"> Decor </div>
 <?php require_once 'footer.php'; ?>
