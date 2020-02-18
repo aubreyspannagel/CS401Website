@@ -71,9 +71,13 @@ a:visted{
  border-bottom: 0px;
 }
 
+#about{
+ display: inline-flex;
+}
 
-
-
+#customerservice{
+ display: inline-flex;
+}
 
 
 
