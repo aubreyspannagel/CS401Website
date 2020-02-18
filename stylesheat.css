@@ -74,10 +74,16 @@ a:visted{
 }
 
 #lgn{
- font: 18px Cochin,serif;
+ font: 25px/35px Cochin,serif;
+ text-align: center;
  position: absolute;
  left: 300px;
  top: 360px;
+}
+
+.emailpassword{
+ font: 18px/35px Cochin, serif;
+ text-align: left;
 }
 
 #index{

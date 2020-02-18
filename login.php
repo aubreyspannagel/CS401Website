@@ -2,8 +2,9 @@
 <div id="login">
   <div id="lgn"> Login 
     <ul>
-      <li>Email <input type="text"></li>
-      <li>Password <input type="text"></li>
+      <li class="emailpassword">Email <input type="text"></li>
+      <li class="emailpassword">Password <input type="text"></li>
+      <li><button type="button">Log in</button></li>
     </ul>
   </div> 
 </div>
