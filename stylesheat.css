@@ -64,6 +64,8 @@ a:visted{
  height: 100px;
  width:100%;
  display: inline-flex;
+ text-align: center;
+ font: 14px/20px Cochin, serif;
  background: gray;
  border: 2px solid black;
 }
