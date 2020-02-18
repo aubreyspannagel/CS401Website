@@ -76,9 +76,21 @@ a:visted{
 }
 
 #about{
- display: inline;
+ postition: absolute;
+ margin: 22px;
+ left: 80px;
 }
 
 #customerservice{
- display: inline;
+ position: absolute;
+ margin: 22px;
+ left: 250px;
 }
+
+#socialmedia{
+ margin: 22px;
+ position: absolute;
+ right: 150px;
+}
+
+
