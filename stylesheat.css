@@ -18,6 +18,10 @@ ul{
  font: 16px Cochin,serif;
 }
 
+#login{
+ height: 55px;
+}
+
 #mainDiv{
  width:100%
  border: 3px solid black;
