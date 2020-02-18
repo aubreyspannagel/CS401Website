@@ -1,3 +1,3 @@
 <?php require_once 'header.php'; ?>
-<h1> Login </h1>
+<div id="login"> Login </div>
 <?php require_once 'footer.php'; ?>
