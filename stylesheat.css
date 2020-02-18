@@ -19,6 +19,7 @@ ul{
 }
 
 #mainDiv{
+ width:100%
  border: 3px solid black;
 }
 
@@ -61,12 +62,15 @@ a:visted{
 
 #footer{
  height: 100px;
+ width:100%;
+ display: inline-flex;
  background: gray;
  border: 2px solid black;
 }
 
 #index{
  height:400px;
+ width:100%;
  border: 2px solid black;
  border-bottom: 0px;
 }
@@ -78,16 +82,3 @@ a:visted{
 #customerservice{
  display: inline;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
