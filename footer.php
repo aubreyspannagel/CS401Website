@@ -14,7 +14,10 @@
       </ul>
       </div>
       <div id="socialmedia">
-        Coming Soon!
+       <strong>Coming Soon!</strong>
+       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/fbicon.png" alt="fbIcon" title="Facebook"/>
+       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/hearticon.png" alt="heartIcon" title="heart"/>
+       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/instaicon.png" alt="instaIcon" title="Instagram"/>
       </div>
     </div>  
   </body>
