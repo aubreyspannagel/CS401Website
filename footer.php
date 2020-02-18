@@ -2,21 +2,17 @@
       <div id="about">
         About
       </div>
-      <div class="link">
-        <a href="contactus.php"> Contact Us </a>
-      </div>
-      <div class="link">
-        <a href="faq.php"> FAQ </a>
-      </div>
+      <ul>
+        <li><a href="contactus.php"> Contact Us </a></li>
+        <li><a href="faq.php"> FAQ </a></li>
+      </ul>
       <div id="customerservice">
         Customer Service
       </div>
-      <div class="link">
-        <a href="returns.php"> Returns & Exchanges </a>
-      </div>
-      <div class="link">
-        <a href="shipping.php"> Shipping & International </a>
-      </div>
+      <ul>
+        <li><a href="returns.php"> Returns & Exchanges </a></li>
+        <li><a href="shipping.php"> Shipping & International </a></li>
+      </ul>
       <div id="socialmedia">
         Coming Soon!
       </div>
