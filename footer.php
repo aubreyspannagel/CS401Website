@@ -9,8 +9,8 @@
       <div id="customerservice">
         Customer Service
         <div id="csLinks">
-          <a href="contactus.php"> Contact Us </a>
-          <a href="contactus.php"> Contact Us </a>
+          <a href="returns.php"> Returns & Exhanges </a>
+          <a href="shipping.php"> Shipping & International </a>
         </div>
       </div>
       <div id="socialmedia">
