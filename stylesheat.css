@@ -125,9 +125,11 @@ a:visted{
 }
 
 .clothingmenu,.decormenu{
- diplay: inline;
+ display: inline;
+ font: 14px/20px Cochin, serif;
 }
 
 .navigation{
  margin: 30px;
+ font: 14px/20px Cochin, serif;
 }
