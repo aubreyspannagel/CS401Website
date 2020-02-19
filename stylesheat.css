@@ -18,6 +18,11 @@ ul{
  font: 16px Cochin,serif;
 }
 
+.clothingmenu{
+ display: inline;
+ float: left;
+}
+
 #loginSignup{
  height: 60px;
 }
@@ -124,6 +129,3 @@ a:visted{
  border-bottom: 0px;
 }
 
-.clothingmenu{
- display: inline;
-}
