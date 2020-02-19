@@ -18,9 +18,14 @@ ul{
  font: 16px Cochin,serif;
 }
 
+#clothing{
+ height: 450px;
+}
+
 .clothingmenu{
  display: inline;
- float: left;
+ margin-left: 40px;
+ 
 }
 
 #loginSignup{

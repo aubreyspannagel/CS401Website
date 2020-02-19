@@ -7,7 +7,7 @@
       <li class="clothingmenu"> Bedroom </li>
       <li class="clothingmenu"> Office </li>
     </ul>
-      <strong>Clothing</strong>
   </div> 
+  <div><strong>Clothing</strong></div>
 </div>
 <?php require_once 'footer.php'; ?>
