@@ -1,4 +1,15 @@
 <?php require_once 'header.php'; ?>
-<link rel="stylesheet" type="text/css" href="stylesheat.css">
-<div id="clothing"> Clothing </div>
+<div id="clothing"> 
+  <div id="clth">
+    <ul>
+      <li class="clothingmenu">Tops</li>
+      <li class="clothingmenu">Bottoms</li>
+      <li class="clothingmenu">Outerwear</li>
+      <li class="clothingmenu">Dresses</li>
+      <li class="clothingmenu">Shoes</li>
+      <li class="clothingmenu">Accessories</li>
+    </ul>
+  </div>
+  <div id="clothingtitle">Clothing</div>
+</div>
 <?php require_once 'footer.php'; ?>
