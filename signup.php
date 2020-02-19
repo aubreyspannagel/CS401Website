@@ -1,5 +1,9 @@
 <?php require_once 'header.php'; ?>
 <div id="signup">
+  <div class="navigation"> 
+    <a href="index.php"> Home </a> > 
+    <a href="signup.php"> Sign Up </a>
+  </div>
   <div id="snup"> Sign Up 
     <ul>
       <li class="emailpassword">First Name <input type="text"></li>

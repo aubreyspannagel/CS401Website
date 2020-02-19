@@ -1,9 +1,5 @@
 <?php require_once 'header.php'; ?>
 <div id="clothing"> 
-  <div class="navigation"> 
-    <a href="index.php"> Home </a> > 
-    <a href="signup.php"> Sign Up </a>
-  </div>
   <div id="clth">
     <ul>
       <li class="clothingmenu">Tops</li>
