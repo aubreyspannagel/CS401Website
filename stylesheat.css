@@ -124,6 +124,10 @@ a:visted{
  border-bottom: 0px;
 }
 
+.clothingmenu,.decormenu{
+ diplay: inline;
+}
+
 .navigation{
  margin: 30px;
 }
