@@ -1,4 +1,5 @@
 <?php require_once 'header.php'; ?>
+
 <div id="clothing">
   <div id="clg"> 
     <ul>
@@ -8,6 +9,9 @@
       <li class="clothingmenu"> Office </li>
     </ul>
   </div> 
-  <div><strong>Clothing</strong></div>
+  <div>
+    <strong> Clothing </strong>
+  </div>
 </div>
+
 <?php require_once 'footer.php'; ?>
