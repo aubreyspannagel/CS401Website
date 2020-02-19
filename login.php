@@ -1,6 +1,9 @@
 <?php require_once 'header.php'; ?>
 <div id="login">
-  <div> Home > Login </div>
+  <div class="navigation"> 
+    <a href="index.php"> Home </a> > 
+    <a href="login.php"> Login </a>
+  </div>
   <div id="lgn"> Login 
     <ul>
       <li class="emailpassword">Email <input type="text"></li>
