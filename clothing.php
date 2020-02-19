@@ -1,7 +1,3 @@
 <?php require_once 'header.php'; ?>
-
-<div id="clothing">  
-  <strong> Clothing </strong>
-</div>
-
+<h1> Clothing </h1>
 <?php require_once 'footer.php'; ?>
