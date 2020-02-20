@@ -1,3 +1,3 @@
 <?php require_once 'header.php'; ?>
-<div id="returns"> Returns and Exchanges </div>
+<h1> Returns and Exchanges </h1>
 <?php require_once 'footer.php'; ?>

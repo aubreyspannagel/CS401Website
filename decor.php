@@ -13,8 +13,8 @@
       <li class="decormenu"><a href="decor.php">Office</a></li> 
      </ul>
   </div>
-  <div class="content">
-   Out of Stock
+  <div class="contentblock">
+   <div class="content"> Out of Stock </div>
   </div>
 </div>
 <?php require_once 'footer.php'; ?>
