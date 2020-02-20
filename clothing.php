@@ -7,12 +7,12 @@
   <div id="clothingtitle"><strong>Clothing</strong></div>
   <div id="clth">
     <ul>
-      <li class="clothingmenu">Tops</li>
-      <li class="clothingmenu">Bottoms</li>
-      <li class="clothingmenu">Outerwear</li>
-      <li class="clothingmenu">Dresses</li>
-      <li class="clothingmenu">Shoes</li>
-      <li class="clothingmenu">Accessories</li>
+      <li class="clothingmenu"><a href="clothing.php">Tops</a></li>
+      <li class="clothingmenu"><a href="clothing.php">Bottoms</a></li>
+      <li class="clothingmenu"><a href="clothing.php">Outerwear</a></li>
+      <li class="clothingmenu"><a href="clothing.php">Dresses</a></li>
+      <li class="clothingmenu"><a href="clothing.php">Shoes</a></li>
+      <li class="clothingmenu"><a href="clothing.php">Accessories</a></li>
     </ul>
   </div>
   <div class="content">

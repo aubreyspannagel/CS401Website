@@ -7,10 +7,10 @@
   <div id="decortitle"><strong>Decor</strong></div>
   <div id="dcr">
     <ul>
-      <li class="decormenu"> Living Room </li>
-      <li class="decormenu"> Kitchen </li>
-      <li class="decormenu"> Bedroom </li>
-      <li class="decormenu"> Office </li> 
+      <li class="decormenu"><a href="decor.php">Living Room</a></li>
+      <li class="decormenu"><a href="decor.php">Kitchen</a></li>
+      <li class="decormenu"><a href="decor.php">Bedroom</a></li>
+      <li class="decormenu"><a href="decor.php">Office</a></li> 
      </ul>
   </div>
   <div class="content">
