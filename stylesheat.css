@@ -153,3 +153,7 @@ a:visted{
  width: 150px;
  height: 290px;
 }
+
+.content{
+ display: inline;
+}
