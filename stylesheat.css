@@ -126,6 +126,8 @@ a:visted{
 
 .clothingmenu,.decormenu{
  font: 14px/20px Cochin, serif;
+ padding: 12px;
+ margin-top: 5px;
 }
 
 .navigation{
@@ -136,4 +138,11 @@ a:visted{
 #decortitle, #clothingtitle{
  font: 45px Cochin, serif;
  margin-left: 90px;
+}
+
+#dcr{
+ margin: 20;
+ border: 2px solid black;
+ width: 150px;
+ height: 200px;
 }
