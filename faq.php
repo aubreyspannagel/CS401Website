@@ -1,3 +1,3 @@
 <?php require_once 'header.php'; ?>
-<h1> Frequently Asked Questions </h1>
+<div id="faq"> Frequently Asked Questions </div>
 <?php require_once 'footer.php'; ?>

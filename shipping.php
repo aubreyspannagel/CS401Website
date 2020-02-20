@@ -1,3 +1,3 @@
 <?php require_once 'header.php'; ?>
-<h1> Shipping and International </h1>
+<div id="shipping"> Shipping and International </div>
 <?php require_once 'footer.php'; ?>
