@@ -15,8 +15,6 @@
       <li class="clothingmenu"><a href="clothing.php">Accessories</a></li>
     </ul>
   </div>
-  <div class="contentblock">
-   <div class="content"> Out of Stock </div>
-  </div>
+  <div class="content"> Out of Stock </div>
 </div>
 <?php require_once 'footer.php'; ?>
