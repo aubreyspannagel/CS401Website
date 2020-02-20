@@ -132,3 +132,8 @@ a:visted{
  margin: 30px;
  font: 14px/20px Cochin, serif;
 }
+
+#decortitle, #clothingtitle{
+ font: 45px Cochin, serif;
+ margin-left: 90px;
+}

@@ -4,7 +4,7 @@
     <a href="index.php"> Home </a> > 
     <a href="clothing.php"> Clothing </a>
   </div>
-  <div id="clothingtitle">Clothing</div>
+  <div id="clothingtitle"><strong>Clothing</strong></div>
   <div id="clth">
     <ul>
       <li class="clothingmenu">Tops</li>
