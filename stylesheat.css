@@ -163,3 +163,10 @@ a:visted{
  padding-top: 17px;
  padding-right: 71%;
 }
+
+#contactus,#faq,#returns,#shipping{
+ text-align: center;
+ height: 450px;
+ font: 45px Cochin, serif;
+}
+
