@@ -4,6 +4,7 @@
     <a href="index.php"> Home </a> > 
     <a href="clothing.php"> Clothing </a>
   </div>
+  <div id="clothingtitle">Clothing</div>
   <div id="clth">
     <ul>
       <li class="clothingmenu">Tops</li>
@@ -14,6 +15,5 @@
       <li class="clothingmenu">Accessories</li>
     </ul>
   </div>
-  <div id="clothingtitle">Clothing</div>
 </div>
 <?php require_once 'footer.php'; ?>
