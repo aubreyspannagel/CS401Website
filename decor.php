@@ -13,5 +13,8 @@
       <li class="decormenu"> Office </li> 
      </ul>
   </div>
+  <div class="content">
+   hi im the contenet
+  </div>
 </div>
 <?php require_once 'footer.php'; ?>
