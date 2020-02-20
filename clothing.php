@@ -16,7 +16,7 @@
     </ul>
   </div>
   <div class="content">
-   hi im the contenet
+   Out of Stock
   </div>
 </div>
 <?php require_once 'footer.php'; ?>
