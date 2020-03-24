@@ -27,6 +27,8 @@ ul{
 }
 
 #cart{
+ width: 30px;
+ height: 30px;
  display: inline;
  float: right;
  margin: 15px;
@@ -37,10 +39,6 @@ ul{
  float: left;
  margin: 20px;
  width: 45%;
-}
-
-input{
- width: 450px;
 }
 
 a:link{
@@ -83,6 +81,16 @@ a:visted{
  width: 40%;
 }
 
+#cus{
+ display:block;
+ margin-left: auto;
+ margin-right:auto;
+ margin-top: 30px;
+ font: 25px/35px Cochin,serif;
+ text-align: center;
+ width: 40%
+}
+
 .emailpassword{
  font: 18px/35px Cochin, serif;
  text-align: left;
@@ -117,7 +125,7 @@ a:visted{
  right: 150px;
 }
 
-#login,#signup,#clothing,#decor{
+#login,#signup,#clothing,#decor,#contact{
  height: 450px;
  width: 100%;
  border: 2px solid black;
@@ -162,11 +170,31 @@ a:visted{
  padding-bottom: 255px;
  padding-top: 17px;
  padding-right: 71%;
-}
+} 
 
-#contactus,#faq,#returns,#shipping{
+#faq,#returns,#shipping{
  text-align: center;
  height: 450px;
  font: 30px Cochin, serif;
 }
 
+form{
+ text-align: center;
+ font: 18px Cochin, serif;
+}
+
+.forminput{
+  margin: 5px;
+  width: 25%;
+}
+
+#commenttext{
+ padding-bottom: 100px; 
+}
+
+.submitbutton{
+ width: 35%;
+ background-color: darkgray;
+ font: 18px Cochin, serif;
+ margin-top:20;
+}

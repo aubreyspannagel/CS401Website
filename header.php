@@ -16,12 +16,8 @@
 	 <li class="subpages"><a href="decor.php"> Decor </a></li>
        </ul>     
      </div> 
-     <div id="search">
-       <input type="text" placeholder="Search"/>
-     </div>
-     <div id="cart">
-       <img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/cart.jpg" alt="shoppingCartIcon" title="Shopping Cart"/>
-     </div>
+     <input id="search"type="text" placeholder="Search"/>
+     <a href="cart.php"id="cart"><img src="https://aubreysthriftfinds.s3-us-west-1.amazonaws.com/cart.jpg" alt="shoppingCartIcon" title="Shopping Cart"/> </a>
      <div id="loginSignup">
        <ul>
          <li class="log"><a href="signup.php"> Sign Up </a></li>
