@@ -8,11 +8,11 @@ require_once 'header.php'; ?>
   </div>
   <div id=contact_form>
   <div id='cus'>Contact Us</div>
-  <form action="contactus_handler.php" method="GET">
+  <form method="GET" action="contactus_handler.php">
    First Name: <input class="forminput" type="text" name="firstname"><br>
    Last Name: <input class="forminput"type="text" name="lastname"><br>
    Email: <input class="forminput"type="text" name="email"><br>
-   Comment: <input id="commenttext"class="forminput"type="textarea" name="comment"><br>
+   Comment: <input id="commenttext"class="forminput"type="text" name="comment"><br>
    <input class="submitbutton"type="submit">
    </form>
    </div>

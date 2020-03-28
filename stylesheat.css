@@ -125,11 +125,16 @@ a:visted{
  right: 150px;
 }
 
-#login,#signup,#clothing,#decor,#contact{
+#freq,#ret,#login,#signup,#clothing,
+#decor,#contact,#ship,#ct{
  height: 450px;
  width: 100%;
  border: 2px solid black;
  border-bottom: 0px;
+}
+
+#ct{
+ height:500px;
 }
 
 .clothingmenu,.decormenu{
@@ -174,8 +179,69 @@ a:visted{
 
 #faq,#returns,#shipping{
  text-align: center;
- height: 450px;
  font: 30px Cochin, serif;
+}
+
+#shippingbody,#faqbody{
+ text-align: center;
+ margin: 60px;
+ padding-bottom: 100px;
+ font: 18px Cochin, serif;
+}
+
+#returnbody{
+ font: 18px Cochin, serif;
+ width: 60%;
+ margin-top:50px;
+ margin-bottom:100px;
+ margin-right:auto;
+ margin-left:auto;
+ border: solid black;
+}
+
+th.ret,td.ret{
+ padding: 20px;
+ float:left;
+}
+
+#carttitle{
+ margin-left: 8%;
+ font: 35px Cochin, serif;
+}
+
+th.cart{
+ font: 18px Cochin, serif;
+ padding-left: 50px;
+ padding-right:50px;
+}
+
+table#carttable{
+ border: 1px solid black;
+ margin-left: 3%;
+ padding-bottom: 150;
+}
+
+table#totaltable{
+ margin-left:40%;
+ margin-top: 20px;
+}
+
+#submitorder{
+ margin-left: 20%;
+ margin-top: 20px;
+ width:35%;
+ background-color: darkgray;
+ font: 18px Cochin, serif;
+}
+
+th.ttheader{
+ padding:5px;
+ font: 16px Cochin, serif; 
+ text-align: left;
+}
+
+#total{
+ font: 18px Cochin, serif;
 }
 
 form{
