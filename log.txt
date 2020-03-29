@@ -1,0 +1,5 @@
+2020-03-29 18:35:03 - INFO  --> DB connection is a success! 
+2020-03-29 18:39:20 - ERROR --> Couldn't connect to database:SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 18:42:36 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:03:08 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:03:27 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 

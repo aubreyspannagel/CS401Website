@@ -20,6 +20,8 @@ ul{
 
 #loginSignup{
  height: 60px;
+ background-color: darkgray;
+ border: 2px solid black;
 }
 
 #mainDiv{
