@@ -217,17 +217,17 @@ th.cart{
 
 table#carttable{
  border: 1px solid black;
- margin-left: 3%;
+ margin-left:25%;
  padding-bottom: 150;
 }
 
 table#totaltable{
- margin-left:40%;
+ margin-left:55%;
  margin-top: 20px;
 }
 
 #submitorder{
- margin-left: 20%;
+ margin-left: 35%;
  margin-top: 20px;
  width:35%;
  background-color: darkgray;
@@ -263,4 +263,13 @@ form{
  background-color: darkgray;
  font: 18px Cochin, serif;
  margin-top:20;
+}
+
+#home{
+ text-align:center;
+}
+
+img#homeimage {
+ width: 994px;
+ height: 559px;
 }
