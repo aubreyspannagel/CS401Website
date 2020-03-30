@@ -14,7 +14,7 @@ require_once 'header.php';
 
   <div id='cus'>Contact Us</div>
 
-   <form action="contactus_handler.php" method="get">
+   <form action="contactus_handler.php" method="post">
     <label for="firstname">First Name:</label>
     <input class="forminput" type="text" name="firstname"> <br>
 

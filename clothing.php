@@ -21,6 +21,7 @@
   </div>
   
   <div class="content"> 
+  Out of Stock
   </div>
 
 </div>

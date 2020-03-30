@@ -7,22 +7,23 @@ class Dao{
   private $username = 'be73a0ca82a2ce';
   private $password = '19eec871';
   private $logger;
-  private $conn;
 
   public function __construct(){
-   $this->$logger = new KLogger("log.txt", KLogger::DEBUG);
+   $this->logger = new KLogger("log.txt", KLogger::DEBUG);
   }
   
   public function getConnection(){
     try{
-     $this->$conn = new PDO("mysql:host=".$host."; dbname=".$dbname.";", $username, $password);   
-     $this->$logger->LogInfo("DB connection is a success!");
+     $connection= new PDO("mysql:host=".$host.";dbname=".dbname, $username, $password);   
+     $this->logger->LogInfo("DB connection is a success!");
     }catch(Exception $e){
-      $this->$logger->LogError("Couldn't connect to database: " . $e->getMessage());
+      $this->logger->LogError("Couldn't connect to database: " . $e->getMessage());
       return null;
     }
-    return $conn;
+    return $connection;
   }
+
+  
 
 } 
 ?> 

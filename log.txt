@@ -3,3 +3,115 @@
 2020-03-29 18:42:36 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
 2020-03-29 19:03:08 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
 2020-03-29 19:03:27 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:22:24 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:33:20 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:33:27 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:36:00 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:36:05 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:40:15 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:41:18 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:41:50 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:42:42 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:42:55 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:42:56 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:42:57 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:43:10 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:43:49 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:43:56 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:44:28 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:44:43 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:44:44 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:44:44 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:46:00 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:46:57 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:41 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:44 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:50 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:51 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:52 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:52 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:56 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:56 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:56 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:56 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:56 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:56 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:57 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:57 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:47:57 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:49:01 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:49:03 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:49:26 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:49:50 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:50:42 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:50:43 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:51:44 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:52:29 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:54:15 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:55:50 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 19:57:22 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:05:27 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:05:33 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:06:46 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:07:26 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:07:36 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:08:31 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:08:51 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:09:12 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:09:49 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:10:37 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:33:12 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:33:21 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:58:51 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 20:59:40 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 21:04:34 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 21:15:41 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 21:35:55 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 21:40:08 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-29 21:40:20 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] No such file or directory 
+2020-03-30 15:04:31 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:04:34 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:05:29 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:05:31 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:14:36 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:14:49 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:24:39 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:24:42 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:24:45 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:24:48 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:25:20 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:25:21 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:46:34 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:46:35 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:46:37 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:46:48 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:46:50 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:46:52 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:46:54 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:47:04 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 15:47:07 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 16:09:46 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 16:09:55 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 16:10:03 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 16:10:05 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 16:17:52 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 16:35:59 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 16:50:34 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 16:50:39 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 17:09:35 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 17:11:29 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 17:23:53 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 19:18:59 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 19:19:14 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 19:19:21 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 19:19:28 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 20:11:16 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 20:11:32 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 20:22:05 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 21:27:52 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 21:41:39 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 21:59:38 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 22:13:49 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 22:23:20 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 22:32:47 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-03-30 23:28:20 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
