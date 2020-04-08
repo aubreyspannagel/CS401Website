@@ -2,7 +2,7 @@
 require_once 'KLogger.php';
 
 class Dao{
-  private $host = 'us-cdbr-iron-east-01.cleardb.net';
+  private $host = parse_url(getenv("CLEARDB_DATABASE"));
   private $dbname = 'heroku_0c88d287915d639';
   private $username = 'be73a0ca82a2ce';
   private $password = '19eec871';
@@ -22,8 +22,6 @@ class Dao{
     }
     return $connection;
   }
-
-  
 
 } 
 ?> 
