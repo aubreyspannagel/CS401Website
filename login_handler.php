@@ -13,9 +13,9 @@ if(empty($givenemail) || empty($givenpassword)){
 
 if($dbemail==$givenemail && $dbpassword==$givenpassword){
  $_SESSION['auth'] = true;
- $_SESSION['success'] = "You are now logged in";
+ $_SESSION['loginsuccess'] = "You are now logged in";
  require_once 'header.php';
- echo "<div id=\"success\">".$_SESSION['success']."</div>";
+ echo "<div id=\"success\">".$_SESSION['loginsuccess']."</div>";
  require_once 'footer.php';
 }
 

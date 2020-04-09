@@ -10,6 +10,16 @@ require_once 'header.php';
   <a href='contactus.php'>Contact Us</a>
  </div>
 
+ <?php 
+   if(isset($_SESSION['contacterror'])){
+     echo "<div>".$_SESSION['contacterror']."</div>";
+     unset($_SESSION['contacterror']);
+   }else if(isset($_SESSION['contactmessage'])){
+     echo "<div>".$_SESSION['contactmessage']."</div>";
+     unset($_SESSION['contactmessage']);
+   }
+ ?>
+
  <div id=contact_form>
 
   <div id='cus'>Contact Us</div>
@@ -31,4 +41,5 @@ require_once 'header.php';
   </div>
  </div>
 </div>
-<?php require_once 'footer.php'; ?>
+<?php require_once 'footer.php';
+ ?>

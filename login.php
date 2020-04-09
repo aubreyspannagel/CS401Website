@@ -9,16 +9,10 @@ session_start();
   </div>
   
   <?php
-   if(isset($_SESSION['message'])){
-     echo "<div id=\"error\">".$_SESSION['message']."</div>";
-     unset($_SESSION['message']);
+   if(isset($_SESSION['loginmessage'])){
+     echo "<div id=\"error\">".$_SESSION['loginmessage']."</div>";
+     unset($_SESSION['loginmessage']);
    }?>
-
-   <?php
-    if(isset($_SESSION['auth']) && $_SESSION['auth'] == true){
-      $_SESSION['success'] = "You are currently logged in";
-      echo "<div class =\"success\">".$SESSION['success']."</div>";
-    }?>
 
   <div id="lgn">Login</div>
   <form action="login_handler.php" method="POST">

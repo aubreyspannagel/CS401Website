@@ -9,10 +9,14 @@ session_start();
   </div>
 
   <?php
-   if(isset($_SESSION['message'])){
-    echo "<div id=\"error\">{$_SESSION['message']}</div>";
-    unset($_SESSION['message']);
-   }?>
+   if(isset($_SESSION['signuperror'])){
+    echo "<div id=\"error\">{$_SESSION['signuperror']}</div>";
+    unset($_SESSION['signuperror']);
+   }else if(isset($_SESSION['signupmessage'])){
+      echo "<div>{$_SESSION['signupmessage']}</div>";
+      unset($_SESSION['signupmessage']);
+   }
+  ?>
 
   <div id="snup">Sign Up</div>
    <form method="post" action="signup_handler.php">
@@ -24,4 +28,5 @@ session_start();
    </form>
   </div>
 </div>
-<?php require_once 'footer.php'; ?>
+<?php require_once 'footer.php';
+?>
