@@ -9,9 +9,9 @@ session_start();
   </div>
   
   <?php
-   if(isset($_SESSION['loginmessage'])){
-     echo "<div id=\"error\">".$_SESSION['loginmessage']."</div>";
-     unset($_SESSION['loginmessage']);
+   if(isset($_SESSION['loginerror'])){
+     echo "<div id=\"error\">".$_SESSION['loginerror']."</div>";
+     unset($_SESSION['loginerror']);
    }?>
 
   <div id="lgn">Login</div>

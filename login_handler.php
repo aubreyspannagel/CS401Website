@@ -7,6 +7,7 @@ $givenemail = $_POST['email'];
 $givenpassword = $_POST['password'];
 
 if(empty($givenemail) || empty($givenpassword)){
+ $_SESSION['loginerror'] = "Please fill all form fields.";
  header("Location: localhost://login.php");
  exit;
 }
@@ -17,6 +18,9 @@ if($dbemail==$givenemail && $dbpassword==$givenpassword){
  require_once 'header.php';
  echo "<div id=\"success\">".$_SESSION['loginsuccess']."</div>";
  require_once 'footer.php';
+}else{
+ $_SESSION['loginerror'] = "Invalid email or password.";
+ header("Location: localhost://login.php");
+ exit;
 }
-
 ?>
