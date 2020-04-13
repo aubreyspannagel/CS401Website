@@ -148,3 +148,8 @@
 2020-04-13 23:09:51 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 
 2020-04-13 23:19:23 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 
 2020-04-13 23:19:25 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 
+2020-04-13 23:31:33 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user '{$username}'@'localhost' (using password: YES) 
+2020-04-13 23:32:42 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user '{$username}'@'ec2-18-207-203-31.compute-1.amazonaws.com' (using password: YES) 
+2020-04-13 23:34:11 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user '$username'@'ec2-3-92-30-85.compute-1.amazonaws.com' (using password: YES) 
+2020-04-13 23:35:03 - INFO  --> DB connection is a success! 
+2020-04-13 23:36:29 - INFO  --> DB connection is a success! 
