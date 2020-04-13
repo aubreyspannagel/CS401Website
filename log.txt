@@ -115,3 +115,36 @@
 2020-03-30 22:23:20 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
 2020-03-30 22:32:47 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
 2020-03-30 23:28:20 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 20:46:18 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 20:52:58 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 20:54:16 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 21:31:33 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 
+2020-04-09 21:32:31 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 
+2020-04-09 21:32:34 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 
+2020-04-09 21:35:58 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 21:38:11 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 21:39:11 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:39:38 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:42:05 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:42:30 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:43:01 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:43:21 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:44:25 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:44:27 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:45:02 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:45:04 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:45:06 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:46:27 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 21:46:49 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) 
+2020-04-09 21:47:04 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 21:52:17 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 21:52:19 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 22:06:14 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 22:06:18 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-09 22:23:23 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-13 22:49:19 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-13 22:49:29 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-13 22:50:10 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: YES) 
+2020-04-13 23:09:51 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 
+2020-04-13 23:19:23 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 
+2020-04-13 23:19:25 - ERROR --> Couldn't connect to database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known 

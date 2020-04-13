@@ -1,5 +1,8 @@
 <?php
 session_start();
+require_once 'Dao.php';
+$dao = new Dao();
+$dao->getConnection();
 
 $dbemail = 'bohn.aubrey.mhs@gmail.com';
 $dbpassword = '1234';
@@ -23,4 +26,4 @@ if($dbemail==$givenemail && $dbpassword==$givenpassword){
  header("Location: localhost://login.php");
  exit;
 }
-?>
+
