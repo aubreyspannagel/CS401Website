@@ -1,5 +1,7 @@
 <?php
 session_start();
+require_once 'Dao.php';
+$dao = new Dao();
 
 $firstname = $_POST['firstname'];
 $lastname = $_POST['lastname'];
@@ -23,7 +25,9 @@ if(strlen($password) < $minpasswordlength){
  $_SESSION['signuperror'] = "Password must be at least 8 characters.";
 }else{
  $_SESSION['signupmessage'] = "Thank you for signing up!";
+ $dao->signup($firstname,$lastname,$email,$password);
 }
+
 
 unset($_POST);
 header("Location: localhost://signup.php");
