@@ -66,12 +66,13 @@ class Dao{
    return $data;
   }
 
-
-
-
-
-
-
+  public function getDecor(){
+   $conn = $this->getConnection();
+   $query = $conn->prepare("select * from decor");
+   $query->execute();
+   $data = $query->fetchAll();
+   return $data;
+  }
 
 
 

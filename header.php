@@ -20,7 +20,14 @@
      <div id="loginSignup">
        <ul>
          <li class="log"><a href="signup.php"> Sign Up </a></li>
-         <li class="log"><a href="login.php"> Log In </a></li>
+         
+         <?php
+          if(isset($_SESSION['auth']) && $_SESSION['auth'] == true){
+           echo "<li class=\"log\"><a href=\"logout.php\"> Log Out </a></li>";
+          }else{
+           echo "<li class=\"log\"><a href=\"login.php\"> Log In </a></li>";
+          }?>
+
        </ul>     
      </div>
    </div> 

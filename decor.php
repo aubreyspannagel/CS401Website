@@ -1,4 +1,8 @@
-<?php require_once 'header.php'; ?>
+<?php 
+require_once 'header.php'; 
+require_once 'Dao.php';
+$dao = new Dao();
+?>
 <div id="decor">
   <div class="navigation"> 
     <a href="index.php"> Home </a> > 
@@ -14,7 +18,19 @@
      </ul>
   </div>
   <div class="content">
-	Out of Stock
+   <?php 
+     $items = $dao->getDecor();
+     if(empty($items)){
+       echo "<div> Currently out of stock.</div>";
+     }else{
+       foreach($items as $decor){
+         echo "<img class=\"decorurl element\" src=\"{$decor['image_url']}\" alt=\"{$decor['decor_name']}\">";
+         echo "<div class=\"element\">{$clothing['decor_name']}</div>";
+         echo "<div class=\"element\">{$clothing['dimensions']}</div>";
+         echo "<div class=\"element\">{$clothing['price']}</div>";
+         echo "<div class=\"element\">{$clothing['item_description']}</div>";
+       }
+     }?>
   </div>
 </div>
 <?php require_once 'footer.php'; ?>
