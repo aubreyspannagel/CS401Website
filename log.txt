@@ -175,3 +175,214 @@
 2020-04-14 0:31:07 - INFO  --> DB connection is a success! 
 2020-04-14 0:32:20 - INFO  --> DB connection is a success! 
 2020-04-14 0:32:21 - INFO  --> DB connection is a success! 
+2020-04-14 17:11:53 - INFO  --> DB connection is a success! 
+2020-04-14 17:11:53 - INFO  --> DB connection is a success! 
+2020-04-14 17:13:04 - INFO  --> DB connection is a success! 
+2020-04-14 17:13:04 - INFO  --> DB connection is a success! 
+2020-04-14 17:13:44 - INFO  --> DB connection is a success! 
+2020-04-14 17:13:44 - INFO  --> DB connection is a success! 
+2020-04-14 17:14:21 - INFO  --> DB connection is a success! 
+2020-04-14 17:14:21 - INFO  --> DB connection is a success! 
+2020-04-14 17:19:34 - INFO  --> DB connection is a success! 
+2020-04-14 17:19:34 - INFO  --> DB connection is a success! 
+2020-04-14 17:21:34 - INFO  --> DB connection is a success! 
+2020-04-14 17:21:34 - INFO  --> DB connection is a success! 
+2020-04-14 17:21:52 - INFO  --> DB connection is a success! 
+2020-04-14 17:21:53 - INFO  --> DB connection is a success! 
+2020-04-14 17:26:30 - INFO  --> DB connection is a success! 
+2020-04-14 17:26:31 - INFO  --> Customer signed up. 
+2020-04-14 17:30:51 - INFO  --> DB connection is a success! 
+2020-04-14 17:30:52 - INFO  --> DB connection is a success! 
+2020-04-14 17:30:52 - INFO  --> Customer signed up. 
+2020-04-14 17:31:26 - INFO  --> DB connection is a success! 
+2020-04-14 17:31:26 - INFO  --> DB connection is a success! 
+2020-04-14 17:31:26 - INFO  --> Customer signed up. 
+2020-04-14 17:32:22 - INFO  --> DB connection is a success! 
+2020-04-14 17:32:23 - INFO  --> DB connection is a success! 
+2020-04-14 17:35:29 - INFO  --> DB connection is a success! 
+2020-04-14 17:35:30 - INFO  --> DB connection is a success! 
+2020-04-14 17:35:30 - INFO  --> Customer signed up. 
+2020-04-14 17:39:13 - INFO  --> DB connection is a success! 
+2020-04-14 17:39:13 - INFO  --> DB connection is a success! 
+2020-04-14 17:39:13 - INFO  --> Customer signed up. 
+2020-04-14 17:46:28 - INFO  --> DB connection is a success! 
+2020-04-14 17:46:29 - INFO  --> DB connection is a success! 
+2020-04-14 17:46:29 - INFO  --> Customer signed up. 
+2020-04-14 17:46:52 - INFO  --> DB connection is a success! 
+2020-04-14 17:46:52 - INFO  --> DB connection is a success! 
+2020-04-14 17:46:53 - INFO  --> Customer signed up. 
+2020-04-14 17:52:45 - INFO  --> DB connection is a success! 
+2020-04-14 17:52:45 - INFO  --> DB connection is a success! 
+2020-04-14 17:52:45 - INFO  --> Customer signed up. 
+2020-04-14 17:57:38 - INFO  --> DB connection is a success! 
+2020-04-14 17:57:39 - INFO  --> Customer signed up. 
+2020-04-14 18:15:02 - INFO  --> DB connection is a success! 
+2020-04-14 18:15:53 - INFO  --> DB connection is a success! 
+2020-04-14 18:16:34 - INFO  --> DB connection is a success! 
+2020-04-14 18:17:07 - INFO  --> DB connection is a success! 
+2020-04-14 18:17:57 - INFO  --> DB connection is a success! 
+2020-04-14 18:18:54 - INFO  --> DB connection is a success! 
+2020-04-14 18:23:13 - INFO  --> DB connection is a success! 
+2020-04-14 18:24:03 - INFO  --> DB connection is a success! 
+2020-04-14 18:26:42 - INFO  --> DB connection is a success! 
+2020-04-14 18:28:33 - INFO  --> DB connection is a success! 
+2020-04-14 18:28:33 - INFO  --> Customer signed up. 
+2020-04-14 18:36:32 - INFO  --> DB connection is a success! 
+2020-04-14 18:36:32 - INFO  --> Customer signed up. 
+2020-04-14 18:37:39 - INFO  --> DB connection is a success! 
+2020-04-14 18:37:39 - INFO  --> Customer signed up. 
+2020-04-14 18:38:51 - INFO  --> DB connection is a success! 
+2020-04-14 18:38:51 - INFO  --> Customer signed up. 
+2020-04-14 18:45:27 - INFO  --> DB connection is a success! 
+2020-04-14 18:50:05 - INFO  --> DB connection is a success! 
+2020-04-14 18:50:05 - INFO  --> DB connection is a success! 
+2020-04-14 18:50:05 - INFO  --> Customer signed up. 
+2020-04-14 18:52:19 - INFO  --> DB connection is a success! 
+2020-04-14 18:53:20 - INFO  --> DB connection is a success! 
+2020-04-14 18:53:20 - INFO  --> DB connection is a success! 
+2020-04-14 18:53:21 - INFO  --> Customer signed up. 
+2020-04-14 18:54:45 - INFO  --> DB connection is a success! 
+2020-04-14 18:57:45 - INFO  --> DB connection is a success! 
+2020-04-14 19:01:07 - INFO  --> DB connection is a success! 
+2020-04-14 19:02:03 - INFO  --> DB connection is a success! 
+2020-04-14 19:02:03 - INFO  --> DB connection is a success! 
+2020-04-14 19:02:03 - INFO  --> Customer signed up. 
+2020-04-14 19:02:32 - INFO  --> DB connection is a success! 
+2020-04-14 19:02:32 - INFO  --> DB connection is a success! 
+2020-04-14 19:02:33 - INFO  --> Customer signed up. 
+2020-04-14 19:07:07 - INFO  --> DB connection is a success! 
+2020-04-14 19:07:08 - INFO  --> DB connection is a success! 
+2020-04-14 19:07:08 - INFO  --> Customer signed up. 
+2020-04-14 19:07:47 - INFO  --> DB connection is a success! 
+2020-04-14 19:08:06 - INFO  --> DB connection is a success! 
+2020-04-14 19:09:30 - INFO  --> DB connection is a success! 
+2020-04-14 19:09:30 - INFO  --> DB connection is a success! 
+2020-04-14 19:09:30 - INFO  --> Customer signed up. 
+2020-04-14 19:12:51 - INFO  --> DB connection is a success! 
+2020-04-14 19:12:52 - INFO  --> DB connection is a success! 
+2020-04-14 19:12:52 - INFO  --> Customer signed up. 
+2020-04-14 19:13:46 - INFO  --> DB connection is a success! 
+2020-04-14 19:13:55 - INFO  --> DB connection is a success! 
+2020-04-14 19:13:56 - INFO  --> DB connection is a success! 
+2020-04-14 19:13:56 - INFO  --> Customer signed up. 
+2020-04-14 19:14:36 - INFO  --> DB connection is a success! 
+2020-04-14 19:14:37 - INFO  --> DB connection is a success! 
+2020-04-14 19:14:37 - INFO  --> Customer signed up. 
+2020-04-14 19:15:20 - INFO  --> DB connection is a success! 
+2020-04-14 19:15:21 - INFO  --> DB connection is a success! 
+2020-04-14 19:15:21 - INFO  --> Customer signed up. 
+2020-04-14 19:15:48 - INFO  --> DB connection is a success! 
+2020-04-14 19:15:49 - INFO  --> DB connection is a success! 
+2020-04-14 19:15:49 - INFO  --> Customer signed up. 
+2020-04-14 19:16:50 - INFO  --> DB connection is a success! 
+2020-04-14 19:16:50 - INFO  --> DB connection is a success! 
+2020-04-14 19:16:50 - INFO  --> Customer signed up. 
+2020-04-14 19:17:55 - INFO  --> DB connection is a success! 
+2020-04-14 19:17:55 - INFO  --> DB connection is a success! 
+2020-04-14 19:17:55 - INFO  --> Customer signed up. 
+2020-04-14 19:20:03 - INFO  --> DB connection is a success! 
+2020-04-14 19:20:03 - INFO  --> DB connection is a success! 
+2020-04-14 19:20:03 - INFO  --> Customer signed up. 
+2020-04-14 19:20:47 - INFO  --> DB connection is a success! 
+2020-04-14 19:20:47 - INFO  --> DB connection is a success! 
+2020-04-14 19:20:48 - INFO  --> Customer signed up. 
+2020-04-14 19:21:34 - INFO  --> DB connection is a success! 
+2020-04-14 19:21:34 - INFO  --> DB connection is a success! 
+2020-04-14 19:21:34 - INFO  --> Customer signed up. 
+2020-04-14 19:23:05 - INFO  --> DB connection is a success! 
+2020-04-14 19:23:05 - INFO  --> DB connection is a success! 
+2020-04-14 19:23:06 - INFO  --> Customer signed up. 
+2020-04-14 19:23:37 - INFO  --> DB connection is a success! 
+2020-04-14 19:23:38 - INFO  --> DB connection is a success! 
+2020-04-14 19:23:38 - INFO  --> Customer signed up. 
+2020-04-14 19:24:43 - INFO  --> DB connection is a success! 
+2020-04-14 19:24:43 - INFO  --> DB connection is a success! 
+2020-04-14 19:24:43 - INFO  --> Customer signed up. 
+2020-04-14 21:06:31 - INFO  --> DB connection is a success! 
+2020-04-14 21:06:31 - INFO  --> select * from customer where email like %bohn.aubrey.mhs@gmail.com% 
+2020-04-14 21:06:31 - INFO  --> DB connection is a success! 
+2020-04-14 21:06:31 - INFO  --> Customer signed up. 
+2020-04-14 21:08:22 - INFO  --> DB connection is a success! 
+2020-04-14 21:08:22 - INFO  --> select * from customer where email like "bohn.aubrey.mhs@gmail.com" 
+2020-04-14 21:08:31 - INFO  --> DB connection is a success! 
+2020-04-14 21:08:31 - INFO  --> select * from customer where email like "aubreyabohn@hotmail.com" 
+2020-04-14 21:08:31 - INFO  --> DB connection is a success! 
+2020-04-14 21:08:31 - INFO  --> Customer signed up. 
+2020-04-14 21:09:08 - INFO  --> DB connection is a success! 
+2020-04-14 21:09:08 - INFO  --> select * from customer where email="aubreyabohn@hotmail.com" 
+2020-04-14 21:09:08 - INFO  --> DB connection is a success! 
+2020-04-14 21:09:08 - INFO  --> Customer signed up. 
+2020-04-14 21:13:23 - INFO  --> DB connection is a success! 
+2020-04-14 21:13:23 - INFO  --> select * from customer where email="bohn.aubrey.mhs@gmail.com" 
+2020-04-14 21:14:17 - INFO  --> DB connection is a success! 
+2020-04-14 21:14:17 - INFO  --> select * from customer where email="bohn.aubrey.mhs@gmail.com" 
+2020-04-14 21:15:11 - INFO  --> DB connection is a success! 
+2020-04-14 21:15:11 - INFO  --> select * from customer where email="bohn.aubrey.mhs@gmail.com" 
+2020-04-14 21:15:56 - INFO  --> DB connection is a success! 
+2020-04-14 21:15:56 - INFO  --> select * from customer where email="bohn.aubrey.mhs@gmail.com" 
+2020-04-14 21:22:41 - INFO  --> DB connection is a success! 
+2020-04-14 21:23:21 - INFO  --> DB connection is a success! 
+2020-04-14 21:23:21 - INFO  --> DB connection is a success! 
+2020-04-14 21:23:21 - INFO  --> Customer signed up. 
+2020-04-14 21:23:27 - INFO  --> DB connection is a success! 
+2020-04-14 21:23:39 - INFO  --> DB connection is a success! 
+2020-04-14 21:23:40 - INFO  --> DB connection is a success! 
+2020-04-14 21:23:40 - INFO  --> Customer signed up. 
+2020-04-14 21:25:28 - INFO  --> DB connection is a success! 
+2020-04-14 21:26:23 - INFO  --> DB connection is a success! 
+2020-04-14 21:28:36 - INFO  --> DB connection is a success! 
+2020-04-14 21:28:37 - INFO  -->  
+2020-04-14 21:28:37 - INFO  --> DB connection is a success! 
+2020-04-14 21:28:37 - INFO  --> Customer signed up. 
+2020-04-14 21:30:12 - INFO  --> DB connection is a success! 
+2020-04-14 21:30:13 - INFO  --> Results:  
+2020-04-14 21:30:13 - INFO  --> DB connection is a success! 
+2020-04-14 21:30:13 - INFO  --> Customer signed up. 
+2020-04-14 21:31:27 - INFO  --> DB connection is a success! 
+2020-04-14 21:31:27 - INFO  --> Results:  
+2020-04-14 21:31:27 - INFO  --> DB connection is a success! 
+2020-04-14 21:31:27 - INFO  --> Customer signed up. 
+2020-04-14 21:39:18 - INFO  --> DB connection is a success! 
+2020-04-14 21:39:18 - INFO  --> Results: Array 
+2020-04-14 21:39:19 - INFO  --> DB connection is a success! 
+2020-04-14 21:39:19 - INFO  --> Customer signed up. 
+2020-04-14 21:40:23 - INFO  --> DB connection is a success! 
+2020-04-14 21:40:23 - INFO  --> Results: bohn.aubrey.mhs@gmail.com bohn.aubrey.mhs@gmail.com 
+2020-04-14 21:40:23 - INFO  --> DB connection is a success! 
+2020-04-14 21:40:23 - INFO  --> Customer signed up. 
+2020-04-14 21:41:51 - INFO  --> DB connection is a success! 
+2020-04-14 21:41:51 - INFO  --> Results: Array 
+2020-04-14 21:41:51 - INFO  --> DB connection is a success! 
+2020-04-14 21:41:51 - INFO  --> Customer signed up. 
+2020-04-14 21:42:19 - INFO  --> DB connection is a success! 
+2020-04-14 21:42:19 - INFO  --> Results: bohn.aubrey.mhs@gmail.com bohn.aubrey.mhs@gmail.com 
+2020-04-14 21:42:20 - INFO  --> DB connection is a success! 
+2020-04-14 21:42:20 - INFO  --> Customer signed up. 
+2020-04-14 21:44:05 - INFO  --> DB connection is a success! 
+2020-04-14 21:44:19 - INFO  --> DB connection is a success! 
+2020-04-14 21:45:00 - INFO  --> DB connection is a success! 
+2020-04-14 21:45:00 - INFO  --> DB connection is a success! 
+2020-04-14 21:45:00 - INFO  --> Customer signed up. 
+2020-04-14 22:04:52 - INFO  --> DB connection is a success! 
+2020-04-14 22:04:52 - INFO  --> Check if user exists: Array 
+2020-04-14 22:06:36 - INFO  --> DB connection is a success! 
+2020-04-14 22:06:36 - INFO  --> Check if user exists: Array 
+2020-04-14 22:06:36 - INFO  --> DB connection is a success! 
+2020-04-14 22:09:13 - INFO  --> Check if user exists: bohn.aubrey.mhs@gmail.com bohn.aubrey.mhs@gmail.com 
+2020-04-14 22:09:14 - INFO  --> Check password:  
+2020-04-14 22:10:02 - INFO  --> Check if user exists:  
+2020-04-14 22:10:02 - INFO  --> Check password:  
+2020-04-14 22:12:14 - INFO  --> Check if user exists: bohn.aubrey.mhs@gmail.com bohn.aubrey.mhs@gmail.com 
+2020-04-14 22:12:14 - INFO  --> Check password:  
+2020-04-14 22:12:57 - INFO  --> Check if user exists:  
+2020-04-14 22:12:58 - INFO  --> Customer signed up. 
+2020-04-14 22:13:17 - INFO  --> Check if user exists: bigcat@rescue.com bigcat@rescue.com 
+2020-04-14 22:13:17 - INFO  --> Check password:  
+2020-04-14 22:13:30 - INFO  --> Check if user exists: bigcat@rescue.com bigcat@rescue.com 
+2020-04-14 22:13:30 - INFO  --> Check password:  
+2020-04-14 22:15:00 - INFO  --> Check if user exists: bigcat@rescue.com bigcat@rescue.com 
+2020-04-14 22:15:00 - INFO  --> Check password: bigcat@rescue.com bigcat@rescue.com 
+2020-04-14 22:18:27 - INFO  --> Check if user exists:  
+2020-04-14 22:18:28 - INFO  --> Customer signed up. 
+2020-04-14 22:18:57 - INFO  --> Check if user exists: bigcat@rescue.com bigcat@rescue.com 
+2020-04-14 22:18:57 - INFO  --> Check password: bigcat@rescue.com bigcat@rescue.com 

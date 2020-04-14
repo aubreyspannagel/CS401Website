@@ -1,5 +1,7 @@
 <?php 
 session_start();
+require_once 'Dao.php';
+$dao = new Dao();
 
 $fn = $_POST['firstname'];
 $ln = $_POST['lastname'];
@@ -22,6 +24,7 @@ if(!filter_var($email, FILTER_VALIDATE_EMAIL)){
 if(strlen($comment) > $commentlengthmax){
  $_SESSION['contacterror'] = "Comment is too long.";
 }else{
+ $dao->saveComment($fn,$ln,$email,$comment);
  $_SESSION['contactmessage'] = "Your submission has been recieved! We will contact you shortly.";
 }
 

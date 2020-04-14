@@ -12,7 +12,13 @@ session_start();
    if(isset($_SESSION['loginerror'])){
      echo "<div id=\"error\">".$_SESSION['loginerror']."</div>";
      unset($_SESSION['loginerror']);
-   }?>
+   }
+   if(isset($_SESSION['loginsuccess'])){
+     echo "<div id=\"success\">".$_SESSION['loginsuccess']."</div>";
+     unset($_SESSION['loginsuccess']);
+   }
+  ?>
+
 
   <div id="lgn">Login</div>
   <form action="login_handler.php" method="POST">
